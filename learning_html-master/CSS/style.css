@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(to bottom,rgb(249, 252, 253) ,lightgrey , rgb(193, 231, 233))
+}
+h1{
+   color: slategray;
+}
+p{
+    font-size: 22px;
+    background-color: snow;
+    font-family: fantasy;
+}
